@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1323529_wish_lis. user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_1323529_wish_lis. user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-20 03:55:15</sys_created_on>
+        <sys_id>6341ba23932d82100abe30018bba104e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1323529_wish_lis. user</sys_name>
+        <sys_package display_value="Wish List" source="x_1323529_wish_lis">01317a2393e982100abe30018bba1032</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">01317a2393e982100abe30018bba1032</sys_scope>
+        <sys_update_name>sys_user_role_6341ba23932d82100abe30018bba104e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-20 03:55:15</sys_updated_on>
+    </sys_user_role>
+</record_update>
